@@ -2595,7 +2595,7 @@
       {
         "name_zh": "爆米花",
         "name_en": "Popcorn",
-        "url": "assets/resource/doodle_material/svgs2/000005/爆米000011.svg"
+        "url": "assets/resource/doodle_material/svgs2/000005/000031.svg"
       },
       {
         "name_zh": "苍蝇",
@@ -2710,17 +2710,17 @@
       {
         "name_zh": "雏菊花",
         "name_en": "Daisy flower",
-        "url": "assets/resource/doodle_material/svgs2/000003/雏菊000011.svg"
+        "url": "assets/resource/doodle_material/svgs2/000003/000029.svg"
       },
       {
         "name_zh": "雪花",
         "name_en": "Snowflake",
-        "url": "assets/resource/doodle_material/svgs2/000003/雪000011.svg"
+        "url": "assets/resource/doodle_material/svgs2/000003/000030.svg"
       },
       {
         "name_zh": "荷花",
         "name_en": "Lotus",
-        "url": "assets/resource/doodle_material/svgs2/000003/荷000011.svg"
+        "url": "assets/resource/doodle_material/svgs2/000003/000031.svg"
       },
       {
         "name_zh": "闪电",
@@ -2760,7 +2760,7 @@
       {
         "name_zh": "玫瑰花",
         "name_en": "Roses",
-        "url": "assets/resource/doodle_material/svgs2/000003/玫瑰000011.svg"
+        "url": "assets/resource/doodle_material/svgs2/000003/000039.svg"
       },
       {
         "name_zh": "花束",
@@ -2895,12 +2895,12 @@
       {
         "name_zh": "烟花",
         "name_en": "Fireworks",
-        "url": "assets/resource/doodle_material/svgs2/000003/烟000011.svg"
+        "url": "assets/resource/doodle_material/svgs2/000003/000027.svg"
       },
       {
         "name_zh": "薰衣草花",
         "name_en": "Lavender flower",
-        "url": "assets/resource/doodle_material/svgs2/000003/薰衣草000011.svg"
+        "url": "assets/resource/doodle_material/svgs2/000003/000028.svg"
       },
       {
         "name_zh": "高跟鞋",
@@ -2995,7 +2995,7 @@
       {
         "name_zh": "钢笔",
         "name_en": "Pen",
-        "url": "assets/resource/doodle_material/svgs2/000004/钢000004.svg"
+        "url": "assets/resource/doodle_material/svgs2/000004/000019.svg"
       },
       {
         "name_zh": "钻石",
@@ -3250,7 +3250,7 @@
       {
         "name_zh": "锁头钥匙",
         "name_en": "Lock key",
-        "url": "assets/resource/doodle_material/svgs2/000004/锁头000012.svg"
+        "url": "assets/resource/doodle_material/svgs2/000004/000070.svg"
       },
       {
         "name_zh": "礼物箱",
@@ -3405,132 +3405,132 @@
       {
         "name_zh": "曲奇饼干",
         "name_en": "Cookies",
-        "url": "assets/resource/doodle_material/svgs/000005/000005.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000005.svg"
       },
       {
         "name_zh": "墨西哥卷饼",
         "name_en": "Mexican tortillas",
-        "url": "assets/resource/doodle_material/svgs/000005/墨西哥卷000003.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000020.svg"
       },
       {
         "name_zh": "西兰花",
         "name_en": "broccoli",
-        "url": "assets/resource/doodle_material/svgs/000005/西兰000011.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000016.svg"
       },
       {
         "name_zh": "牛油果",
         "name_en": "Avocado",
-        "url": "assets/resource/doodle_material/svgs/000005/000009.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000009.svg"
       },
       {
         "name_zh": "胡萝卜",
         "name_en": "carrot",
-        "url": "assets/resource/doodle_material/svgs/000005/000025.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000025.svg"
       },
       {
         "name_zh": "华夫饼",
         "name_en": "Waffle cake",
-        "url": "assets/resource/doodle_material/svgs/000005/华夫000003.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000004.svg"
       },
       {
         "name_zh": "汉堡包",
         "name_en": "hamburger",
-        "url": "assets/resource/doodle_material/svgs/000005/000023.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000023.svg"
       },
       {
         "name_zh": "鸡蛋",
         "name_en": "Eggs",
-        "url": "assets/resource/doodle_material/svgs/000005/000013.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000013.svg"
       },
       {
         "name_zh": "冰淇淋",
         "name_en": "ice cream",
-        "url": "assets/resource/doodle_material/svgs/000005/000017.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000017.svg"
       },
       {
         "name_zh": "鸡腿",
         "name_en": "Chicken legs",
-        "url": "assets/resource/doodle_material/svgs/000005/000049.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000022.svg"
       },
       {
         "name_zh": "面包",
         "name_en": "bread",
-        "url": "assets/resource/doodle_material/svgs/000005/000001.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000001.svg"
       },
       {
         "name_zh": "香蕉",
         "name_en": "banana",
-        "url": "assets/resource/doodle_material/svgs/000005/000014.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000014.svg"
       },
       {
         "name_zh": "蛋糕",
         "name_en": "cake",
-        "url": "assets/resource/doodle_material/svgs/000005/000008.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000008.svg"
       },
       {
         "name_zh": "辣椒",
         "name_en": "capsicum",
-        "url": "assets/resource/doodle_material/svgs/000005/000012.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000012.svg"
       },
       {
         "name_zh": "草莓",
         "name_en": "strawberry",
-        "url": "assets/resource/doodle_material/svgs/000005/000019.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000019.svg"
       },
       {
         "name_zh": "葡萄",
         "name_en": "grape",
-        "url": "assets/resource/doodle_material/svgs/000005/000011.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000011.svg"
       },
       {
         "name_zh": "苹果",
         "name_en": "apple",
-        "url": "assets/resource/doodle_material/svgs/000005/000024.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000024.svg"
       },
       {
         "name_zh": "玉米",
         "name_en": "corn",
-        "url": "assets/resource/doodle_material/svgs/000005/000010.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000010.svg"
       },
       {
         "name_zh": "番茄",
         "name_en": "tomato",
-        "url": "assets/resource/doodle_material/svgs/000005/000006.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000006.svg"
       },
       {
         "name_zh": "热狗",
         "name_en": "hot dog",
-        "url": "assets/resource/doodle_material/svgs/000005/热000008.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000002.svg"
       },
       {
         "name_zh": "牛奶",
         "name_en": "milk",
-        "url": "assets/resource/doodle_material/svgs/000005/000021.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000021.svg"
       },
       {
         "name_zh": "柠檬",
         "name_en": "lemon",
-        "url": "assets/resource/doodle_material/svgs/000005/000026.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000018.svg"
       },
       {
         "name_zh": "樱桃",
         "name_en": "cherry",
-        "url": "assets/resource/doodle_material/svgs/000005/000015.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000015.svg"
       },
       {
         "name_zh": "披萨",
         "name_en": "pizza",
-        "url": "assets/resource/doodle_material/svgs/000005/000007.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000007.svg"
       },
       {
         "name_zh": "连指手套",
         "name_en": "Finger gloves",
-        "url": "assets/resource/doodle_material/svgs/000982/连指000080.svg"
+        "url": "assets/resource/doodle_material/svgs/000982/000007.svg"
       },
       {
         "name_zh": "梨",
         "name_en": "pear",
-        "url": "assets/resource/doodle_material/svgs/000005/000003.svg"
+        "url": "assets/resource/doodle_material/svgs/001466/000003.svg"
       },
       {
         "name_zh": "毕业帽",
@@ -3550,7 +3550,7 @@
       {
         "name_zh": "袜子",
         "name_en": "socks",
-        "url": "assets/resource/doodle_material/svgs/000982/000089.svg"
+        "url": "assets/resource/doodle_material/svgs/000982/000008.svg"
       },
       {
         "name_zh": "领带",
@@ -3560,7 +3560,7 @@
       {
         "name_zh": "眼镜",
         "name_en": "glasses",
-        "url": "assets/resource/doodle_material/svgs/000982/000026.svg"
+        "url": "assets/resource/doodle_material/svgs/000982/000001.svg"
       },
       {
         "name_zh": "T恤衫",
@@ -3595,7 +3595,7 @@
       {
         "name_zh": "帐篷",
         "name_en": "tent",
-        "url": "assets/resource/doodle_material/svgs/001754/000090.svg"
+        "url": "assets/resource/doodle_material/svgs/001754/000011.svg"
       },
       {
         "name_zh": "寺院",
@@ -3640,12 +3640,12 @@
       {
         "name_zh": "记号笔",
         "name_en": "Marker pen",
-        "url": "assets/resource/doodle_material/svgs/001452/记号000004.svg"
+        "url": "assets/resource/doodle_material/svgs/001452/000011.svg"
       },
       {
         "name_zh": "螺丝刀",
         "name_en": "Screwdriver",
-        "url": "assets/resource/doodle_material/svgs/001452/螺丝000027.svg"
+        "url": "assets/resource/doodle_material/svgs/001452/000014.svg"
       },
       {
         "name_zh": "安全帽",
@@ -3660,7 +3660,7 @@
       {
         "name_zh": "铅笔",
         "name_en": "pencil",
-        "url": "assets/resource/doodle_material/svgs/001452/铅000004.svg"
+        "url": "assets/resource/doodle_material/svgs/001452/000009.svg"
       },
       {
         "name_zh": "锤子",
@@ -3670,7 +3670,7 @@
       {
         "name_zh": "尺子",
         "name_en": "ruler",
-        "url": "assets/resource/doodle_material/svgs/001452/000072.svg"
+        "url": "assets/resource/doodle_material/svgs/001452/000015.svg"
       },
       {
         "name_zh": "扳手",
@@ -3685,12 +3685,12 @@
       {
         "name_zh": "圆规",
         "name_en": "Compass",
-        "url": "assets/resource/doodle_material/svgs/001452/000012.svg"
+        "url": "assets/resource/doodle_material/svgs/001452/000013.svg"
       },
       {
         "name_zh": "剪刀",
         "name_en": "scissors",
-        "url": "assets/resource/doodle_material/svgs/001452/000026.svg"
+        "url": "assets/resource/doodle_material/svgs/001452/000013.svg"
       },
       {
         "name_zh": "桶",
@@ -3735,7 +3735,7 @@
       {
         "name_zh": "马桶",
         "name_en": "Toilet",
-        "url": "assets/resource/doodle_material/svgs/001559/马000006.svg"
+        "url": "assets/resource/doodle_material/svgs/001559/000004.svg"
       },
       {
         "name_zh": "浴缸",
@@ -3745,7 +3745,7 @@
       {
         "name_zh": "电脑",
         "name_en": "computer",
-        "url": "assets/resource/doodle_material/svgs/001559/000077.svg"
+        "url": "assets/resource/doodle_material/svgs/001559/000010.svg"
       },
       {
         "name_zh": "插头",
@@ -3760,7 +3760,7 @@
       {
         "name_zh": "刀叉",
         "name_en": "Knife and fork",
-        "url": "assets/resource/doodle_material/svgs/001559/000018.svg"
+        "url": "assets/resource/doodle_material/svgs/001559/000003.svg"
       },
       {
         "name_zh": "勺子",
@@ -3770,7 +3770,7 @@
       {
         "name_zh": "长颈鹿",
         "name_en": "giraffe",
-        "url": "assets/resource/doodle_material/svgs/001179/长颈000009.svg"
+        "url": "assets/resource/doodle_material/svgs/001179/000028.svg"
       },
       {
         "name_zh": "鸭子",
@@ -3830,22 +3830,22 @@
       {
         "name_zh": "熊猫",
         "name_en": "panda",
-        "url": "assets/resource/doodle_material/svgs/001179/熊000018.svg"
+        "url": "assets/resource/doodle_material/svgs/001179/000032.svg"
       },
       {
         "name_zh": "犀牛",
         "name_en": "rhinoceros",
-        "url": "assets/resource/doodle_material/svgs/001179/犀000002.svg"
+        "url": "assets/resource/doodle_material/svgs/001179/000031.svg"
       },
       {
         "name_zh": "河马",
         "name_en": "Hippo",
-        "url": "assets/resource/doodle_material/svgs/001179/河000022.svg"
+        "url": "assets/resource/doodle_material/svgs/001179/000023.svg"
       },
       {
         "name_zh": "浣熊",
         "name_en": "Raccoon",
-        "url": "assets/resource/doodle_material/svgs/001179/浣000003.svg"
+        "url": "assets/resource/doodle_material/svgs/001179/000015.svg"
       },
       {
         "name_zh": "斑马",
