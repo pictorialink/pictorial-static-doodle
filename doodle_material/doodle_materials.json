@@ -1,5 +1,1530 @@
 [
   {
+    "title": "Flat-Body-Clothes",
+    "items": [
+      {
+        "name_zh": "",
+        "name_en": "Hoodie",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Body-Clothes/Hoodie.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Jacket 2",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Body-Clothes/Jacket 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Jacket",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Body-Clothes/Jacket.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Lab Coat",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Body-Clothes/Lab Coat.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Long Sleeve",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Body-Clothes/Long Sleeve.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Pointing Forward",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Body-Clothes/Pointing Forward.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Pointing Up",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Body-Clothes/Pointing Up.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Pregnant",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Body-Clothes/Pregnant.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Trench Coat",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Body-Clothes/Trench Coat.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Turtle Neck",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Body-Clothes/Turtle Neck.svg"
+      }
+    ]
+  },
+  {
+    "title": "Flat-Head",
+    "items": [
+      {
+        "name_zh": "",
+        "name_en": "Afro",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/Afro.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Airy",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/Airy.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Caesar",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/Caesar.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Chongo",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/Chongo.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Curly",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/Curly.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Hijab 1",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/Hijab 1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Hijab2",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/Hijab2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Long",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/Long.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "No Hair",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/No Hair.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Pony",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/Pony.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Rad",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/Rad.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Short 1",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/Short 1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Short 2",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/Short 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Short Beard",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/Short Beard.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Top",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/Top.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Turban 1",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/Turban 1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Turban2",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/Turban2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Wavy",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Head/Wavy.svg"
+      }
+    ]
+  },
+  {
+    "title": "Flat-Humaaans",
+    "items": [
+      {
+        "name_zh": "",
+        "name_en": "sitting-1",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/sitting-1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "sitting-2",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/sitting-2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "sitting-3",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/sitting-3.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "sitting-4",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/sitting-4.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "sitting-5",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/sitting-5.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "sitting-6",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/sitting-6.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "sitting-7",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/sitting-7.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "sitting-8",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/sitting-8.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-1",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-10",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-10.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-11",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-11.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-12",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-12.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-13",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-13.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-14",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-14.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-15",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-15.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-16",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-16.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-17",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-17.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-18",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-18.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-19",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-19.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-2",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-20",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-20.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-21",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-21.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-22",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-22.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-23",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-23.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-24",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-24.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-3",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-3.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-4",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-4.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-5",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-5.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-6",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-6.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-7",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-7.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-8",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-8.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "standing-9",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Humaaans/standing-9.svg"
+      }
+    ]
+  },
+  {
+    "title": "Flat-Scene",
+    "items": [
+      {
+        "name_zh": "",
+        "name_en": "Home",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Scene/Home.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Plants",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Scene/Plants.svg"
+      }
+    ]
+  },
+  {
+    "title": "Flat-Seat",
+    "items": [
+      {
+        "name_zh": "",
+        "name_en": "Ball",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Seat/Ball.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Cube 2",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Seat/Cube 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Cube",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Seat/Cube.svg"
+      }
+    ]
+  },
+  {
+    "title": "Flat-Sitting",
+    "items": [
+      {
+        "name_zh": "",
+        "name_en": "Baggy Pants",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Sitting/Baggy Pants.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Skinny Jeans 1",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Sitting/Skinny Jeans 1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Sweat Pants",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Sitting/Sweat Pants.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Wheelchair",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Sitting/Wheelchair.svg"
+      }
+    ]
+  },
+  {
+    "title": "Flat-Standing",
+    "items": [
+      {
+        "name_zh": "",
+        "name_en": "Baggy Pants",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Standing/Baggy Pants.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Jogging",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Standing/Jogging.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Shorts",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Standing/Shorts.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Skinny Jeans Walk",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Standing/Skinny Jeans Walk.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Skinny Jeans",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Standing/Skinny Jeans.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Skirt",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Standing/Skirt.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Sprint",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Standing/Sprint.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Sweatpants",
+        "url": "assets/resource/doodle_material/new_assets/Flat-Standing/Sweatpants.svg"
+      }
+    ]
+  },
+  {
+    "title": "Simple-Person-Standing",
+    "items": [
+      {
+        "name_zh": "",
+        "name_en": "person-standing10",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing10.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing12",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing12.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing14",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing14.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing16",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing16.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing18",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing18.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing20",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing20.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing22",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing22.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing24",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing24.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing26",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing26.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing28",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing28.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing30",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing30.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing32",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing32.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing34",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing34.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing36",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing36.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing38",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing38.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing4",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing4.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing40",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing40.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing42",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing42.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing44",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing44.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing46",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing46.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing48",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing48.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing50",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing50.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing52",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing52.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing54",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing54.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing56",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing56.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing58",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing58.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing6",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing6.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing60",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing60.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-standing8",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-Standing/person-standing8.svg"
+      }
+    ]
+  },
+  {
+    "title": "Simple-Person-sitting",
+    "items": [
+      {
+        "name_zh": "",
+        "name_en": "person-sitting11",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting11.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-sitting13",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting13.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-sitting14",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting14.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-sitting16",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting16.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-sitting18",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting18.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-sitting2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-sitting20",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting20.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-sitting22",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting22.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-sitting23",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting23.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-sitting25",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting25.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-sitting27",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting27.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-sitting28",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting28.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-sitting30",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting30.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-sitting32",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting32.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-sitting4",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting4.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-sitting5",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting5.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-sitting7",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting7.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "person-sitting9",
+        "url": "assets/resource/doodle_material/new_assets/Simple-Person-sitting/person-sitting9.svg"
+      }
+    ]
+  },
+  {
+    "title": "Simple-accessories",
+    "items": [
+      {
+        "name_zh": "",
+        "name_en": "Eyepatch",
+        "url": "assets/resource/doodle_material/new_assets/Simple-accessories/Eyepatch.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Glasses 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-accessories/Glasses 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Glasses 3",
+        "url": "assets/resource/doodle_material/new_assets/Simple-accessories/Glasses 3.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Glasses 4",
+        "url": "assets/resource/doodle_material/new_assets/Simple-accessories/Glasses 4.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Glasses 5",
+        "url": "assets/resource/doodle_material/new_assets/Simple-accessories/Glasses 5.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Glasses",
+        "url": "assets/resource/doodle_material/new_assets/Simple-accessories/Glasses.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Sunglasses 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-accessories/Sunglasses 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Sunglasses",
+        "url": "assets/resource/doodle_material/new_assets/Simple-accessories/Sunglasses.svg"
+      }
+    ]
+  },
+  {
+    "title": "Simple-body",
+    "items": [
+      {
+        "name_zh": "",
+        "name_en": "Blazer Black Tee",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Blazer Black Tee.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Button Shirt 1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Button Shirt 1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Button Shirt 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Button Shirt 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Coffee",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Coffee.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Device",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Device.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Dress",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Dress.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Explaining",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Explaining.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Fur Jacket",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Fur Jacket.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Gaming",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Gaming.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Gym Shirt",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Gym Shirt.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Hoodie",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Hoodie.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Killer",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Killer.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Macbook",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Macbook.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Paper",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Paper.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Pointing Up",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Pointing Up.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Polka Dot Jacket",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Polka Dot Jacket.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Polo and Sweater",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Polo and Sweater.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Shirt and Coat",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Shirt and Coat.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Sporty Tee",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Sporty Tee.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Striped Pocket Tee",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Striped Pocket Tee.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Striped Tee",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Striped Tee.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Sweater Dots",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Sweater Dots.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Sweater",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Sweater.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Tee 1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Tee 1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Tee 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Tee 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Tee Arms Crossed",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Tee Arms Crossed.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Tee Selena",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Tee Selena.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Thunder T-Shirt",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Thunder T-Shirt.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Turtleneck",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Turtleneck.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Whatever",
+        "url": "assets/resource/doodle_material/new_assets/Simple-body/Whatever.svg"
+      }
+    ]
+  },
+  {
+    "title": "Simple-face",
+    "items": [
+      {
+        "name_zh": "",
+        "name_en": "Angry with Fang",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Angry with Fang.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Awe",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Awe.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Blank",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Blank.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Calm",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Calm.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Cheeky",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Cheeky.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Concerned Fear",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Concerned Fear.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Concerned",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Concerned.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Contempt",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Contempt.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Cute",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Cute.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Cyclops",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Cyclops.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Driven",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Driven.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Eating Happy",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Eating Happy.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Explaining",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Explaining.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Eyes Closed",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Eyes Closed.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Fear",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Fear.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Hectic",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Hectic.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Loving Grin 1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Loving Grin 1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Loving Grin 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Loving Grin 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Monster",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Monster.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Old",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Old.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Rage",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Rage.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Serious",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Serious.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Smile Big",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Smile Big.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Smile LOL",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Smile LOL.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Smile Teeth Gap",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Smile Teeth Gap.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Smile",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Smile.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Solemn",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Solemn.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Suspicious",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Suspicious.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Tired",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Tired.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Very Angry",
+        "url": "assets/resource/doodle_material/new_assets/Simple-face/Very Angry.svg"
+      }
+    ]
+  },
+  {
+    "title": "Simple-facial-hair",
+    "items": [
+      {
+        "name_zh": "",
+        "name_en": "Chin",
+        "url": "assets/resource/doodle_material/new_assets/Simple-facial-hair/Chin.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Full 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-facial-hair/Full 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Full 3",
+        "url": "assets/resource/doodle_material/new_assets/Simple-facial-hair/Full 3.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Full 4",
+        "url": "assets/resource/doodle_material/new_assets/Simple-facial-hair/Full 4.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Full",
+        "url": "assets/resource/doodle_material/new_assets/Simple-facial-hair/Full.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Goatee 1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-facial-hair/Goatee 1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Goatee 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-facial-hair/Goatee 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Moustache 1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-facial-hair/Moustache 1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Moustache 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-facial-hair/Moustache 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Moustache 3",
+        "url": "assets/resource/doodle_material/new_assets/Simple-facial-hair/Moustache 3.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Moustache 4",
+        "url": "assets/resource/doodle_material/new_assets/Simple-facial-hair/Moustache 4.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Moustache 5",
+        "url": "assets/resource/doodle_material/new_assets/Simple-facial-hair/Moustache 5.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Moustache 6",
+        "url": "assets/resource/doodle_material/new_assets/Simple-facial-hair/Moustache 6.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Moustache 7",
+        "url": "assets/resource/doodle_material/new_assets/Simple-facial-hair/Moustache 7.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Moustache 8",
+        "url": "assets/resource/doodle_material/new_assets/Simple-facial-hair/Moustache 8.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Moustache 9",
+        "url": "assets/resource/doodle_material/new_assets/Simple-facial-hair/Moustache 9.svg"
+      }
+    ]
+  },
+  {
+    "title": "Simple-head",
+    "items": [
+      {
+        "name_zh": "",
+        "name_en": "Afro",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Afro.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Bangs 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Bangs 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Bangs",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Bangs.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Bantu Knots",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Bantu Knots.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Bear",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Bear.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Bun 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Bun 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Bun",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Bun.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Buns",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Buns.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Cornrows 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Cornrows 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Cornrows",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Cornrows.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Flat Top Long",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Flat Top Long.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Flat Top",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Flat Top.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Gray Bun",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Gray Bun.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Gray Medium",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Gray Medium.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Gray Short",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Gray Short.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Hijab",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Hijab.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Long Afro",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Long Afro.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Long Bangs",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Long Bangs.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Long Curly",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Long Curly.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Long",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Long.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Medium 1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Medium 1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Medium 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Medium 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Medium 3",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Medium 3.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Medium Bangs 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Medium Bangs 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Medium Bangs 3",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Medium Bangs 3.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Medium Bangs",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Medium Bangs.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Medium Straight",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Medium Straight.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Mohawk 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Mohawk 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Mohawk",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Mohawk.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "No Hair 1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/No Hair 1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "No Hair 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/No Hair 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "No Hair 3",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/No Hair 3.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Pomp",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Pomp.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Shaved 1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Shaved 1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Shaved 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Shaved 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Shaved 3",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Shaved 3.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Short 1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Short 1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Short 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Short 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Short 3",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Short 3.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Short 4",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Short 4.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Short 5",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Short 5.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Turban",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Turban.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Twists 2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Twists 2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "Twists",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/Twists.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "hat-beanie",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/hat-beanie.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "hat-hip",
+        "url": "assets/resource/doodle_material/new_assets/Simple-head/hat-hip.svg"
+      }
+    ]
+  },
+  {
+    "title": "Simple-sitting",
+    "items": [
+      {
+        "name_zh": "",
+        "name_en": "bike",
+        "url": "assets/resource/doodle_material/new_assets/Simple-sitting/bike.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "closed_legs-1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-sitting/closed_legs-1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "closed_legs-2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-sitting/closed_legs-2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "crossed_legs",
+        "url": "assets/resource/doodle_material/new_assets/Simple-sitting/crossed_legs.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "hands_back-1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-sitting/hands_back-1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "hands_back-2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-sitting/hands_back-2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "mid-1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-sitting/mid-1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "mid-2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-sitting/mid-2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "one_leg_up-1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-sitting/one_leg_up-1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "one_leg_up-2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-sitting/one_leg_up-2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "wheelchair",
+        "url": "assets/resource/doodle_material/new_assets/Simple-sitting/wheelchair.svg"
+      }
+    ]
+  },
+  {
+    "title": "Simple-standing",
+    "items": [
+      {
+        "name_zh": "",
+        "name_en": "blazer-1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/blazer-1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "blazer-2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/blazer-2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "blazer-3",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/blazer-3.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "blazer-4",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/blazer-4.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "crossed_arms-1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/crossed_arms-1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "crossed_arms-2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/crossed_arms-2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "easing-1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/easing-1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "easing-2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/easing-2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "pointing_finger-1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/pointing_finger-1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "pointing_finger-2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/pointing_finger-2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "polka_dots",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/polka_dots.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "resting-1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/resting-1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "resting-2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/resting-2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "robot_dance-1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/robot_dance-1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "robot_dance-2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/robot_dance-2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "robot_dance-3",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/robot_dance-3.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "shirt-1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/shirt-1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "shirt-2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/shirt-2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "shirt-3",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/shirt-3.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "shirt-4",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/shirt-4.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "walking-1",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/walking-1.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "walking-2",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/walking-2.svg"
+      },
+      {
+        "name_zh": "",
+        "name_en": "walking-3",
+        "url": "assets/resource/doodle_material/new_assets/Simple-standing/walking-3.svg"
+      }
+    ]
+  },
+  {
     "title": "Class1",
     "items": [
       {
